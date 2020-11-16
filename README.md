@@ -7,7 +7,7 @@ With Mobile Sur SE - you will get all of the Big Sur icons right on your iPhone,
 
 Just like Mobile Sur for jailbroken devices, Mobile Sur SE provides unmatched support. Mobile Sur SE is updated consistently ensuring the best possible experience. You can request icons to be added with a 99.99% guarantee that they'll be added - as long as they've been updated for macOS Big Sur. 
 
-Have an issue or have an icon request? Tweet me @IceCoolTech
+Have an issue or icon request? Tweet me @IceCoolTech
 
 
 ## Installation
