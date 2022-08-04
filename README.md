@@ -1,11 +1,11 @@
 # Mobile Sur SE (Stock Edition)
 ## The Closest You'll Get
 
-## About
+# About
 
-# Coming Soon
+## Coming Soon
 
-## Installation
+# Installation
 
 1) On your iOS/iPadOS device running iOS 12 or later, navigate to the "Releases" tab.
 2) Download the latest version of Mobile Sur SE listed.
