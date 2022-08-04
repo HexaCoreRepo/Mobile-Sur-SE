@@ -1,14 +1,9 @@
 # Mobile Sur SE (Stock Edition)
-## macOS Big Sur icons come to stock iOS.
+## The Closest You'll Get
 
 ## About
 
-With Mobile Sur SE - you will get all of the Big Sur icons right on your iPhone, iPad, or iPod Touch without the need of a jailbreak. Each Mobile Sur SE icon has been taken directly from Mobile Sur for jailbroken devices. This ensures that you're getting the highest quality macOS Big Sur icons on every display. 
-
-Just like Mobile Sur for jailbroken devices, Mobile Sur SE provides unmatched support. Mobile Sur SE is updated consistently ensuring the best possible experience. You can request icons to be added with a 99.99% guarantee that they'll be added - as long as they've been updated for macOS Big Sur. 
-
-Have an issue or icon request? Tweet me @IceCoolTech
-
+# Coming Soon
 
 ## Installation
 
